@@ -1,6 +1,6 @@
 # Autonomous Warehouse Robot Navigation
 
-Dijkstra's-algorithm pathfinding for a warehouse robot on a grid map. A team final project.
+Dijkstra's-algorithm pathfinding for a warehouse robot on a grid map. A team final project for RAS 205.
 
 ## What it does
 
